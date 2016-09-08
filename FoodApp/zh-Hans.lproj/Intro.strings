@@ -1,0 +1,14 @@
+/* 
+  Intro.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/16.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+"H1" = "个性定制";
+"H2" = "地图定位";
+"H3" = "美食分享";
+"Intro1" = "记录你喜欢的餐厅，创建自己的美食向导";
+"Intro2" = "在地图上查找和定位你喜欢的餐厅";
+"Intro3" = "和自己的朋友一起发现和分享美食";

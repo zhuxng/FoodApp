@@ -1,0 +1,26 @@
+/* 
+  MyMain.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/16.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+"SearchBarPlaceHolder" = "请输入餐厅名字的关键字";
+"Share" = "分享";
+"Top" = "置顶";
+"Delete" = "删除";
+"Name" = "名称";
+"Type" = "类型";
+"Location" = "地址";
+"Tel" = "电话";
+"AlertTitle1" = "温馨提示";
+"AlertMessage1" = "请输入完整的餐厅信息";
+"OKButton" = "确定";
+"CancelButton" = "取消";
+"AlertTitle2" = "编辑餐厅地址";
+"AlertMessage2" = "定位服务尚未开启";
+"SettingButton" = "马上设置";
+"WhenInUse" = "应用程序使用期间开启定位服务";
+
+

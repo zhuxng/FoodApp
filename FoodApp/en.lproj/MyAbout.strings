@@ -1,0 +1,15 @@
+/* 
+  About.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/16.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+"Title1" = "Recommendation";
+"Rating" = "Rating the App";
+"Blame" = "Give us some advise";
+"Title2" = "Concern";
+"Home" = "Home page";
+"Blog" = "Author Blog";
+"Company" = "Company Website";

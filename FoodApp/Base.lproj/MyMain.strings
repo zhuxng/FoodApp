@@ -1,0 +1,26 @@
+/* 
+  MyMain.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/16.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+"SearchBarPlaceHolder" = "Input keyword of cafe";
+"Share" = "Share";
+"Top" = "Top";
+"Delete" = "Delete";
+"Name" = "Name";
+"Type" = "Type";
+"Location" = "Location";
+"Tel" = "Tel";
+"AlertTitle1" = "Hint";
+"AlertMessage1" = "You have missed some information of the cafe";
+"OKButton" = "OK";
+"CancelButton" = "Cancel";
+"AlertTitle2" = "Edit the address";
+"AlertMessage2" = "Location service is not available now";
+"SettingButton" = "Setting";
+"WhenInUse" = "Use location service when app is running";
+
+

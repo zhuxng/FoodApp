@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/17.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+CFBundleDisplayName = "Good+Food";
+NSLocationWhenInUseUsageDescription = "use location service when App is running";

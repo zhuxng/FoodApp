@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "05L-14-7Ns"; */
+"05L-14-7Ns.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "0eO-DF-Ue9"; */
+"0eO-DF-Ue9.normalTitle" = "Refresh";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "9eU-Jj-BGj"; */
+"9eU-Jj-BGj.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "This is a label"; ObjectID = "ArO-0Z-MTn"; */
+"ArO-0Z-MTn.text" = "This is a label";
+
+/* Class = "UINavigationItem"; title = "Wonderful Cafe"; ObjectID = "DY6-zK-8bZ"; */
+"DY6-zK-8bZ.title" = "Wonderful Cafe";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "EpO-Zv-ph1"; */
+"EpO-Zv-ph1.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F1j-2C-ATm"; */
+"F1j-2C-ATm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HcL-30-V2j"; */
+"HcL-30-V2j.text" = "Label";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "LCd-xi-qf3"; */
+"LCd-xi-qf3.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "S0S-aL-C9Y"; */
+"S0S-aL-C9Y.normalTitle" = "Enter";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VtW-yl-LPT"; */
+"VtW-yl-LPT.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Xhb-y6-TqT"; */
+"Xhb-y6-TqT.title" = "Item";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "YCW-k9-Ojf"; */
+"YCW-k9-Ojf.text" = "Name";
+
+/* Class = "UILabel"; text = "Choose rating for the cafe"; ObjectID = "ZNa-yy-vfU"; */
+"ZNa-yy-vfU.text" = "Choose rating for the cafe";
+
+/* Class = "UILabel"; text = "Tel"; ObjectID = "ZQx-ek-90F"; */
+"ZQx-ek-90F.text" = "Tel";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "ZUa-M9-c7X"; */
+"ZUa-M9-c7X.title" = "Cancel";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[0] = "Standard"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[1] = "Satellite"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[2] = "Hybrid"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[2]" = "Hybrid";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "nUi-sT-EKh"; */
+"nUi-sT-EKh.text" = "Type";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nf6-fx-Gvn"; */
+"nf6-fx-Gvn.text" = "Label";
+
+/* Class = "UILabel"; text = "通过定位服务获得餐厅位置"; ObjectID = "uaX-Z1-8QN"; */
+"uaX-Z1-8QN.text" = "Locating postion of the cafe";
+
+/* Class = "UILabel"; text = "This is a label. It's a label. That's a label"; ObjectID = "w3J-ir-aVk"; */
+"w3J-ir-aVk.text" = "This is a label. It's a label. That's a label";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "xol-iB-vnk"; */
+"xol-iB-vnk.title" = "Favorite";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "y8F-Gy-rGn"; */
+"y8F-Gy-rGn.title" = "Save";

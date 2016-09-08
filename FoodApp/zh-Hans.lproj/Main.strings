@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "05L-14-7Ns"; */
+"05L-14-7Ns.text" = "";
+
+/* Class = "UIButton"; normalTitle = "刷新"; ObjectID = "0eO-DF-Ue9"; */
+"0eO-DF-Ue9.normalTitle" = "刷新";
+
+/* Class = "UIButton"; normalTitle = "编辑"; ObjectID = "9eU-Jj-BGj"; */
+"9eU-Jj-BGj.normalTitle" = "编辑";
+
+/* Class = "UILabel"; text = "一个标签"; ObjectID = "ArO-0Z-MTn"; */
+"ArO-0Z-MTn.text" = "";
+
+/* Class = "UINavigationItem"; title = "美食餐厅"; ObjectID = "DY6-zK-8bZ"; */
+"DY6-zK-8bZ.title" = "美食餐厅";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "EpO-Zv-ph1"; */
+"EpO-Zv-ph1.title" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F1j-2C-ATm"; */
+"F1j-2C-ATm.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HcL-30-V2j"; */
+"HcL-30-V2j.text" = "";
+
+/* Class = "UILabel"; text = "位置："; ObjectID = "LCd-xi-qf3"; */
+"LCd-xi-qf3.text" = "位置";
+
+/* Class = "UIButton"; normalTitle = "进入应用"; ObjectID = "S0S-aL-C9Y"; */
+"S0S-aL-C9Y.normalTitle" = "进入应用";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VtW-yl-LPT"; */
+"VtW-yl-LPT.text" = "";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Xhb-y6-TqT"; */
+"Xhb-y6-TqT.title" = "";
+
+/* Class = "UILabel"; text = "名称："; ObjectID = "YCW-k9-Ojf"; */
+"YCW-k9-Ojf.text" = "名称";
+
+/* Class = "UILabel"; text = "请对该餐厅做出评价"; ObjectID = "ZNa-yy-vfU"; */
+"ZNa-yy-vfU.text" = "请对该餐厅做出评价";
+
+/* Class = "UILabel"; text = "电话："; ObjectID = "ZQx-ek-90F"; */
+"ZQx-ek-90F.text" = "电话";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "ZUa-M9-c7X"; */
+"ZUa-M9-c7X.title" = "取消";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[0] = "标准"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[0]" = "标准";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[1] = "卫星"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[1]" = "卫星";
+
+/* Class = "UISegmentedControl"; gXh-8j-qHA.segmentTitles[2] = "混合"; ObjectID = "gXh-8j-qHA"; */
+"gXh-8j-qHA.segmentTitles[2]" = "混合";
+
+/* Class = "UILabel"; text = "类型："; ObjectID = "nUi-sT-EKh"; */
+"nUi-sT-EKh.text" = "类型";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nf6-fx-Gvn"; */
+"nf6-fx-Gvn.text" = "";
+
+/* Class = "UILabel"; text = "通过定位服务获得餐厅位置"; ObjectID = "uaX-Z1-8QN"; */
+"uaX-Z1-8QN.text" = "通过定位服务获得餐厅位置";
+
+/* Class = "UILabel"; text = "这就是一个标签，这岂止是一个标签"; ObjectID = "w3J-ir-aVk"; */
+"w3J-ir-aVk.text" = "";
+
+/* Class = "UITabBarItem"; title = "最爱"; ObjectID = "xol-iB-vnk"; */
+"xol-iB-vnk.title" = "最爱";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "y8F-Gy-rGn"; */
+"y8F-Gy-rGn.title" = "保存";

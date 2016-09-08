@@ -1,0 +1,14 @@
+/* 
+  Intro.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/16.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+"H1" = "Personalize";
+"H2" = "Locate";
+"H3" = "Share";
+"Intro1" = "Pin your favorite restaurants and create your own good guide";
+"Intro2" = "Search and locate your favorite restaurant on Maps";
+"Intro3" = "Find restaurants pinned by your friends and other foodies around the world";

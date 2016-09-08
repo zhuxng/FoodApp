@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FoodApp
+
+  Created by LUOHao on 16/6/17.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+
+CFBundleDisplayName = "美食餐厅";
+NSLocationWhenInUseUsageDescription = "应用程序使用期间开启定位服务";
