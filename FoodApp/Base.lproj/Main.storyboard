@@ -121,19 +121,19 @@
                                 <rect key="frame" x="20" y="30" width="560" height="520"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="This is a label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ArO-0Z-MTn">
-                                        <rect key="frame" x="196" y="0.0" width="168" height="253"/>
+                                        <rect key="frame" x="196" y="0.0" width="168" height="35"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="foodpin-intro-1" translatesAutoresizingMaskIntoConstraints="NO" id="QSv-6c-RbR">
-                                        <rect key="frame" x="271" y="253" width="19" height="15"/>
+                                        <rect key="frame" x="0.0" y="35" width="560" height="450"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="QSv-6c-RbR" secondAttribute="height" multiplier="56:45" id="pLF-6z-a3G"/>
                                         </constraints>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="This is a label. It's a label. That's a label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w3J-ir-aVk">
-                                        <rect key="frame" x="138" y="268" width="284" height="253"/>
+                                        <rect key="frame" x="138" y="485" width="284" height="35"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
